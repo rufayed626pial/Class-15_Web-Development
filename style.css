@@ -63,8 +63,7 @@
 
 @media screen and (max-width: 1100px){
     .hero{
-        color: greenyellow;
-
+        color: orange;
     }
 }
 
@@ -130,8 +129,14 @@
 
 /* fotter item */
 
-@media screen  and (max-width:){
-    .paddle{
-        ing-left: ;d
+@media  screen and (max-width: 700px) {
+    .footer-item{
+        width: 33%;
+    }
+}
+
+@media screen and (max-width: 700px){
+    .hello{
+        padding-right: 20px;
     }
 }
